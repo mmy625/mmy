@@ -1,0 +1,1 @@
+系统配置： /private/etc/gitconfig
